@@ -6,7 +6,7 @@ In this technical report, we will delve into Object-Oriented Programming (OOP) c
 ### Object-Oriented Programming (OOP)
 OOP is a programming paradigm that promotes code organization around objects, which are instances of classes. 
 
-###What are the benefits of Object Oriented Programming
+### What are the benefits of Object Oriented Programming
 **1.**Higher quality software
 **2.**Faster development sprints
 **3.**Lower cost of development
@@ -34,7 +34,7 @@ public class Employee {
 public class Manager extends Employee {
     // Manager-specific attributes and methods
 }
-Polymorphism: Polymorphism enables the use of different classes in a unified way. Example in Java using method overriding:
+**Polymorphism:** Polymorphism enables the use of different classes in a unified way. Example in Java using method overriding:
 
 
 public class Circle {
@@ -57,7 +57,7 @@ Code refactoring is the process of restructuring existing code to improve readab
 **Rename Variables and Methods:** Using descriptive names to enhance code readability.
 **Remove Duplicate Code:** Identifying and eliminating repeated code segments for efficiency.
 
-###Conclusion
+### Conclusion
 Understanding OOP concepts and applying code refactoring techniques is essential for managing complex codebases. It leads to cleaner, more maintainable code that helps teams work more efficiently and reduce the risk of bugs and errors.
 
 
