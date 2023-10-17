@@ -7,10 +7,10 @@ In this technical report, we will delve into Object-Oriented Programming (OOP) c
 OOP is a programming paradigm that promotes code organization around objects, which are instances of classes. 
 
 ### What are the benefits of Object Oriented Programming
-**1.**Higher quality software
-**2.**Faster development sprints
-**3.**Lower cost of development
-**4.**Improved software maintainability
+**1**Higher quality software
+**2**Faster development sprints
+**3**Lower cost of development
+**4**Improved software maintainability
 
 **Encapsulation:** Encapsulation ensures data hiding and provides a clear interface to interact with objects. Example in Java:
 
